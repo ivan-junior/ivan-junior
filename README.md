@@ -4,9 +4,9 @@ Full-stack developer at [Blue Sol Energia Solar](https://www.linkedin.com/compan
 
 Passionate about technology, development and any ramifications of this universe.
 
-Currently developing with Javascript (ReactJS, React Native, Angular, NodeJS).
+Currently developing with Javascript (React, React Native, Angular, Node.js, Next.js).
 
 Always learning how to change people's lives through programming.
 
 ___
-**_"The next level is never the last"_**
+**_"Never stop learning"_**
