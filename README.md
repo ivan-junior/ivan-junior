@@ -1,6 +1,6 @@
 ## 🚀 Ivan Junior
 
-Full-stack developer at [Blue Sol Energia Solar](https://www.linkedin.com/company/bluesolenergiasolar)
+Full-stack developer at [Quiker](https://linkedin.com/company/quikeroficial)
 
 Passionate about technology, development and any ramifications of this universe.
 
